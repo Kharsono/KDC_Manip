@@ -1,3 +1,7 @@
+# Nate
+# Testing out force control currently with the small quadrotor
+# only applying constant force at [0,0,0] in the main link frame
+
 import pybullet as p
 import numpy as np
 import time
